@@ -1,2 +1,2 @@
 2021-10-19
-Git & GitHub 
+Git & GitHub 시작
